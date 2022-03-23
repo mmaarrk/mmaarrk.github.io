@@ -6,12 +6,12 @@
 
 | Time | Monday | Wednesday | Friday |
 |---------| --------- | ---------- | --------- |
-| 8:00-8:45 | PE&Health | PE&Health | English |
+| 8:00-8:45 | PE & Health | PE & Health | English |
 | 9:00-9:45 | Science | English | English |
-| 10:00-10:45 | English | Music-Arts | Science |
-| 11:00-11:45 | Music-Arts | Science | Science |
-| 12:45-1:30 | - | - | Computer |
-| 1:45-2:30 | - | Computer | - |
+| 10:00-10:45 | Math | Music Arts | Science |
+| 11:00-11:45 | Math | Science | Science |
+| 12:45-1:30 | - | Computer| - |
+| 1:45-2:30 | - | - | Computer |
 
 
 | Time | Monday | Wednesday | Friday |
@@ -20,7 +20,7 @@
 | 9:00-9:45 | - | Math | AP |
 | 10:00-10:45 | Math | AP | Math |
 | 11:00-11:45 | Math | - | Math |
-| 12:45-1:30 | - | CLE | Friday |
+| 12:45-1:30 | - | CLE | - |
 | 1:45-2:30 | Filipino | - | CLE |
 | 2:45-3:30 | Filipino | - | - |
 
