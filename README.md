@@ -1,38 +1,50 @@
-## Welcome to Brebeuf A GitHub Pages
-Owned by Mark Angel F. Palcon
+# mmaarrk.github.io
+## My Personnal Space
+ Mark Angel Palcon
 
-You can use the [editor on GitHub](https://github.com/mmaarrk/mmaarrk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Synchronous Classes Schedules
+| Time | Monday | Wednesday | Friday |
+|---------| --------- | ---------- | --------- |
+| 8:00-8:45 | PE&Health | PE&Health | English |
+| 9:00-9:45 | Science | English | English |
+| 10:00-10:45 | English | Music-Arts | Science |
+| 11:00-11:45 | Music-Arts | Science | Science |
+| 12:45-1:30 | - | - | Computer |
+| 1:45-2:30 | - | Computer | - |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+| Time | Monday | Wednesday | Friday |
+|---------| --------- | ---------- | --------- |
+| 8:00-8:45 | - | Filipino | Filipino |
+| 9:00-9:45 | - | Math | AP |
+| 10:00-10:45 | Math | AP | Math |
+| 11:00-11:45 | Math | - | Math |
+| 12:45-1:30 | - | CLE | Friday |
+| 1:45-2:30 | Filipino | - | CLE |
+| 2:45-3:30 | Filipino | - | - |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Links
+[Math](https://meet.google.com/eqy-zqne-nzj)
 
-```markdown
-Syntax highlighted code block
+[AP](https://meet.google.com/tzz-fgde-vnt)
 
-# Header 1
-## Header 2
-### Header 3
+[Filipino](http://meet.google.com/nit-taju-orx)
 
-- Bulleted
-- List
+[CLE](https://meet.google.com/xir-tenk-rjd)
 
-1. Numbered
-2. List
+[PE&Health](https://meet.google.com/ayn-eogd-cyj)
 
-**Bold** and _Italic_ and `Code` text
+[Science](http://meet.google.com/ndw-bhkh-iyi)
 
-[Link](url) and ![Image](src)
-```
+[Music Arts](https://meet.google.com/upu-pavv-vqq)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[English](https://meet.google.com/dna-jvka-grs)
 
-### Jekyll Themes
+[Computer](http://meet.google.com/cym-wtwy-kxc)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmaarrk/mmaarrk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Homeroom](https://meet.google.com/nrp-yjgm-cdi)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### To do list
+- [x] Do my Performance Task
+- [x] Long test/Summative test
+- [ ] Completion
