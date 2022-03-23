@@ -3,6 +3,7 @@
  Mark Angel Palcon
 
 ### Synchronous Classes Schedules
+
 | Time | Monday | Wednesday | Friday |
 |---------| --------- | ---------- | --------- |
 | 8:00-8:45 | PE&Health | PE&Health | English |
@@ -24,6 +25,7 @@
 | 2:45-3:30 | Filipino | - | - |
 
 ### Links
+
 [Math](https://meet.google.com/eqy-zqne-nzj)
 
 [AP](https://meet.google.com/tzz-fgde-vnt)
@@ -44,7 +46,9 @@
 
 [Homeroom](https://meet.google.com/nrp-yjgm-cdi)
 
+
 ### To do list
+
 - [x] Do my Performance Task
 - [x] Long test/Summative test
 - [ ] Completion
